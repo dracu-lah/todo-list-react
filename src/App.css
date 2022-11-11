@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.App{
+    margin-top: 100px;
+}
+.container {
+    background-color: gray;
+    width: 400px;
+    height: 400px;
+    margin: auto;
+    border-radius: 10px;
+    border: 1px solid;
+}
+
+#text {
+    margin-left:80px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid;
+}
+
+.add {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid;
+}
+
+
+.list {
+    margin-left: 100px;
+}
+
+.remove{
+    
+    margin-left: 10px;
+    padding: 5px;
+    width: 30px;
+}
+
+p{
+    z-index: 1;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 10px;
+    margin-top: 20px;
+    margin-bottom: 2px;
+}
