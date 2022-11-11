@@ -1,4 +1,4 @@
-#Basic todo list using react
+# Basic todo list using react
 
 faimiliarized the concepts of react
 
